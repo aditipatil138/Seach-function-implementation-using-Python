@@ -2,7 +2,7 @@ import sys
 from interfaceUI import *
 from utility import *
 
-#testing
+#first run
 class MyForm(QDialog):
     def __init__(self):
         super(MyForm, self).__init__()
